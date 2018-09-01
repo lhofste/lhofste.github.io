@@ -1,3 +1,6 @@
+body {font-family: "Courier New", Courier, monospace}
 h1 {
+  font-family: "Lucida Console", Monaco, monospace;
+    background-color: #EBEDEF;
     color: #EA765D;
 }
