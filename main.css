@@ -4,3 +4,14 @@ h1 {
     background-color: #EBEDEF;
     color: #EA765D;
     text-align: center;
+  }
+#header {
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: #F1948A;
+      }
+#content p {
+          width: 50%;
+          text-align: center;
+        }
